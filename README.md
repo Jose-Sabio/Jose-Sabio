@@ -1,4 +1,5 @@
 Hi there, I'm José Antonio! 👋
+
 I'm a passionate Kotlin and Java developer with a love for creating efficient and elegant solutions to complex problems. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions reflecting my journey in software development.
 
 About Me
