@@ -14,5 +14,5 @@ About Me
 
 Skills
 Languages: Kotlin, Java, SQL
-Frameworks/Libraries: JPA,JDBC,TailwindCSS,JavaFx Android SDK
+Frameworks/Libraries: JPA, JDBC, JavaFx, Android SDK
 Tools/Technologies: Git, Gradle, IntelliJ IDEA, Android Studio
