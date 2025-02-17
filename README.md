@@ -4,9 +4,7 @@ I'm a passionate Kotlin and Java developer with a love for creating efficient an
 
 About Me
 
-💼 Currently working as a junior developer at Granada University.
-
-🎓 Graduated with a professional formation in Multiplatform development.
+🎓 Graduated with a professional formation in Multiplatform development . Now studying computer science at the Almería university 
 
 💻 Exploring new technologies and frameworks to expand my skill set.
 
